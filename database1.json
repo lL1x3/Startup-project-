@@ -1,0 +1,514 @@
+{
+  "categories": [
+    "Мол",
+    "С",
+    "Р",
+    "В",
+    "З",
+    "Мяс",
+    "О",
+    "Ф"
+  ],
+  "products": [
+    {
+      "name": "Слойка с сыром",
+      "category1": "В",
+      "category2": "Мол",
+      "brand": "Советская Заря",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "60"
+    },
+    {
+      "name": "Хлеб заварной нарезка",
+      "category1": "В",
+      "category2": "Нет",
+      "brand": "Советская Заря",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "100"
+    },
+    {
+      "name": "Багет с чесноком",
+      "category1": "В",
+      "category2": "О",
+      "brand": "Иванино",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "100"
+    },
+    {
+      "name": "Белый хлеб нарезка",
+      "category1": "В",
+      "category2": "Нет",
+      "brand": "Иванино",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "85"
+    },
+    {
+      "name": "Пирог с яблоком",
+      "category1": "В",
+      "category2": "Ф",
+      "brand": "Иванино",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "230"
+    },
+    {
+      "name": "Пирожок с луком и яйцом",
+      "category1": "В",
+      "category2": "О",
+      "brand": "Иванино",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "65"
+    },
+    {
+      "name": "Сосиска в тесте",
+      "category1": "В",
+      "category2": "Мяс",
+      "brand": "Иванино",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "82"
+    },
+    {
+      "name": "Молоко Коровье 0.1%",
+      "category1": "Мол",
+      "category2": "Нет",
+      "brand": "Советская Заря",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "150"
+    },
+    {
+      "name": "Молоко Коровье 2.7%",
+      "category1": "Мол",
+      "category2": "Нет",
+      "brand": "Советская Заря",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "200"
+    },
+    {
+      "name": "Сливки 5%",
+      "category1": "Мол",
+      "category2": "Нет",
+      "brand": "Советская Заря",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "120"
+    },
+    {
+      "name": "Вафельное мороженое Пингвин",
+      "category1": "Мол",
+      "category2": "С",
+      "brand": "Северянское",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "140"
+    },
+    {
+      "name": "Пломбирное мороженое с джемом клубники",
+      "category1": "Мол",
+      "category2": "С",
+      "brand": "Мишутка",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "130"
+    },
+    {
+      "name": "Пломбирное мороженое Святка",
+      "category1": "Мол",
+      "category2": "С",
+      "brand": "Мишутка",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "125"
+    },
+    {
+      "name": "Шоколадное мороженое Святка",
+      "category1": "Мол",
+      "category2": "С",
+      "brand": "Мишутка",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "190"
+    },
+    {
+      "name": "Молоко Козье 1.2%",
+      "category1": "Мол",
+      "category2": "Нет",
+      "brand": "Малорассвет",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "250"
+    },
+    {
+      "name": "Молоко Козье 2.7%",
+      "category1": "Мол",
+      "category2": "Нет",
+      "brand": "Малорассвет",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "200"
+    },
+    {
+      "name": "Питьевые сливки 20%",
+      "category1": "Мол",
+      "category2": "Нет",
+      "brand": "Малорассвет",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "300"
+    },
+    {
+      "name": "Молоко Кокосовое 15%",
+      "category1": "Мол",
+      "category2": "Нет",
+      "brand": "Краево",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Да",
+      "price": "200"
+    },
+    {
+      "name": "Молоко Миндальное",
+      "category1": "Мол",
+      "category2": "Нет",
+      "brand": "Краево",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Да",
+      "price": "100"
+    },
+    {
+      "name": "Лопатка говяжья",
+      "category1": "Мяс",
+      "category2": "Нет",
+      "brand": "Советская Заря",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "340"
+    },
+    {
+      "name": "Пельмени 800г",
+      "category1": "Мяс",
+      "category2": "З",
+      "brand": "Советская Заря",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "360"
+    },
+    {
+      "name": "Лопатка свиная",
+      "category1": "Мяс",
+      "category2": "Нет",
+      "brand": "Луг",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "289"
+    },
+    {
+      "name": "Стейк из окорока баранины",
+      "category1": "Мяс",
+      "category2": "Нет",
+      "brand": "Луг",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "370"
+    },
+    {
+      "name": "Котлеты из свинины и говядины",
+      "category1": "Мяс",
+      "category2": "З",
+      "brand": "Бесконечное Мясо",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "289"
+    },
+    {
+      "name": "Фарш говяжий 750г",
+      "category1": "Мяс",
+      "category2": "Нет",
+      "brand": "Бесконечное Мясо",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "289"
+    },
+    {
+      "name": "Чоризо свиные",
+      "category1": "Мяс",
+      "category2": "Нет",
+      "brand": "Бесконечное Мясо",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "400"
+    },
+    {
+      "name": "Броколли 400г",
+      "category1": "О",
+      "category2": "З",
+      "brand": "Иванино",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Да",
+      "veganfriendly": "Да",
+      "price": "190"
+    },
+    {
+      "name": "Картофель (красный ) 3кг",
+      "category1": "О",
+      "category2": "Нет",
+      "brand": "Краево",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Да",
+      "veganfriendly": "Да",
+      "price": "100"
+    },
+    {
+      "name": "Свекла 1кг",
+      "category1": "О",
+      "category2": "Нет",
+      "brand": "Краево",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Да",
+      "price": "51"
+    },
+    {
+      "name": "Редька Дайкон 1кг",
+      "category1": "О",
+      "category2": "Нет",
+      "brand": "Иванино",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Да",
+      "price": "160"
+    },
+    {
+      "name": "Чеснок 0.4кг",
+      "category1": "О",
+      "category2": "Нет",
+      "brand": "Подсолнухо",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Да",
+      "price": "116"
+    },
+    {
+      "name": "Икра горбуши 250г",
+      "category1": "Р",
+      "category2": "Нет",
+      "brand": "Речногорск",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "850"
+    },
+    {
+      "name": "Консервы (Сардина)",
+      "category1": "Р",
+      "category2": "Нет",
+      "brand": "Речногорск",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "195"
+    },
+    {
+      "name": "Филе речной окунь 1кг",
+      "category1": "Р",
+      "category2": "З",
+      "brand": "Речногорск",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "262"
+    },
+    {
+      "name": "Филе щуки 1кг",
+      "category1": "Р",
+      "category2": "З",
+      "brand": "Речногорск",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "690"
+    },
+    {
+      "name": "Форель охлаждённая потрошённая 2кг",
+      "category1": "Р",
+      "category2": "Нет",
+      "brand": "Речногорск",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "1490"
+    },
+    {
+      "name": "Вобла соломка 500г",
+      "category1": "Р",
+      "category2": "Нет",
+      "brand": "Богатая река",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "425"
+    },
+    {
+      "name": "Филе морского окуня 1кг",
+      "category1": "Р",
+      "category2": "З",
+      "brand": "Oceanman",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "640"
+    },
+    {
+      "name": "Клубничный джем 196г",
+      "category1": "С",
+      "category2": "Ф",
+      "brand": "Фруктогорск",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Да",
+      "veganfriendly": "Да",
+      "price": "166"
+    },
+    {
+      "name": "Цветной зефир 130г",
+      "category1": "С",
+      "category2": "Нет",
+      "brand": "Северянское",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "178"
+    },
+    {
+      "name": "Шоколадный пончик",
+      "category1": "С",
+      "category2": "В",
+      "brand": "Северянское",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "59"
+    },
+    {
+      "name": "Халва подсолнечная 100г",
+      "category1": "С",
+      "category2": "Нет",
+      "brand": "Подсолнухо",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Да",
+      "price": "19"
+    },
+    {
+      "name": "Конфеты Skootles 38г",
+      "category1": "С",
+      "category2": "Нет",
+      "brand": "Мишутка",
+      "diabeticfriendly": "Нет",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Нет",
+      "price": "42"
+    },
+    {
+      "name": "Ириски 'Сладкозубики'150г",
+      "category1": "С",
+      "category2": "Мол",
+      "brand": "Малорассвет",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Да",
+      "price": "411"
+    },
+    {
+      "name": "Огурец среднеплодный гладкий 1кг",
+      "category1": "О",
+      "category2": "Нет",
+      "brand": "Краево",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Да",
+      "price": "128"
+    },
+    {
+      "name": "Яблоки Гала 0,5 кг",
+      "category1": "Ф",
+      "category2": "Нет",
+      "brand": "Подсолнухо",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Да",
+      "veganfriendly": "Да",
+      "price": "86"
+    },
+    {
+      "name": "Клубника 300гр",
+      "category1": "Ф",
+      "category2": "Нет",
+      "brand": "Краево",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Да",
+      "price": "117"
+    },
+    {
+      "name": "Пюре фруктовое из банана и яблока 120г",
+      "category1": "Ф",
+      "category2": "Нет",
+      "brand": "Фруктогорск",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Да",
+      "veganfriendly": "Да",
+      "price": "30"
+    },
+    {
+      "name": "Бананы 0.5кг",
+      "category1": "Ф",
+      "category2": "Нет",
+      "brand": "Фруктогорск",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Да",
+      "veganfriendly": "Да",
+      "price": "109"
+    },
+    {
+      "name": "Чай чёрный 'Ананас с яблоком' 100 пакетиков по 1.5г",
+      "category1": "Ф",
+      "category2": "Нет",
+      "brand": "Фруктогорск",
+      "diabeticfriendly": "Да",
+      "infantsfriendly": "Нет",
+      "veganfriendly": "Да",
+      "price": "240"
+    }
+  ]
+}
